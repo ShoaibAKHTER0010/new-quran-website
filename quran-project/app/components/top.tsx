@@ -7,7 +7,7 @@ const Top = () => {
     <section className=' w-full' 
     style={{
         width: '100%',
-        backgroundImage: "url('./images/bg-1.png')",
+        backgroundImage: "url('./images/bg-top.png')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}>
