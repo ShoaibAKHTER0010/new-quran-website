@@ -39,7 +39,7 @@ tailored to meet the needs of learners in the USA.</p>
                 <div className="text-center flex flex-col justify-center items-center bg-[#d7f1eb] hover:bg-[#bbe4db]  hover:shadow-xl rounded-xl py-14 px-8 w-full md:w-1/3">
                     <img src="./images/step-log/step-2.png" alt="step-2" />
                     {/* p-one */}
-                    <p className=" text-neutral-800 text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px] py-6">Step 1</p>
+                    <p className=" text-neutral-800 text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px] py-6">Step 2</p>
                       {/* p-two */}
                     <p className=" text-neutral-800 text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px]">Send Inquiry</p>
                      {/* p-3 */}
@@ -59,7 +59,7 @@ tailored to meet the needs of learners in the USA.</p>
                 <div className="text-center flex flex-col justify-center items-center bg-[#d7f1eb] hover:bg-[#bbe4db] hover:shadow-xl rounded-xl py-14 px-8 w-full md:w-1/3">
                     <img src="./images/step-log/step-3.png" alt="step-3" />
                     {/* p-one */}
-                    <p className=" text-neutral-800 text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px] py-6">Step 1</p>
+                    <p className=" text-neutral-800 text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px] py-6">Step 3</p>
                       {/* p-two */}
                     <p className=" text-neutral-800 text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px]">Send Inquiry</p>
                      {/* p-3 */}
