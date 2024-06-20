@@ -8,7 +8,7 @@ const Experts = () => {
         backgroundPosition: 'center',
         backgroundSize: 'cover',
         backgroundRepeat:'no-repeat',
-        height:'100vh'
+        
     }}>
         <main className='mx-auto max-w-7xl p-8'>
             {/* main-div */}

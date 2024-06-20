@@ -12,7 +12,13 @@ const Courses = () => {
                   {/* first-div */}
                   <div className='flex flex-col md:flex-row justify-center items-center gap-10'>
                     {/* card-1 */}
-                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6'>
+                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6' style={{
+        backgroundImage: "url('./images/cor-bg.png')",
+        backgroundPosition: 'center',
+        backgroundSize: 'cover',
+        backgroundRepeat:'no-repeat',
+        
+    }}>
                       <img src="./images/courses-log/cor-1.png" alt="img" />
                       <p className="text-white text-xl font-bold font-['Roboto Slab'] leading-[30px]">Learn Basic Noorani Qaida Online</p>
                       {/* button sec */}
@@ -21,7 +27,13 @@ const Courses = () => {
                     </div>
                     
                     {/* card-2 */}
-                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6'>
+                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6' style={{
+        backgroundImage: "url('./images/cor-bg.png')",
+        backgroundPosition: 'center',
+        backgroundSize: 'cover',
+        backgroundRepeat:'no-repeat',
+        
+    }}>
                       <img src="./images/courses-log/cor-2.png" alt="img" />
                       <p className="text-white text-xl font-bold font-['Roboto Slab'] leading-[30px]">Learn to Recite Quran Online</p>
                       {/* button sec */}
@@ -30,7 +42,13 @@ const Courses = () => {
                     </div>
 
                     {/* card-3 */}
-                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6'>
+                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6' style={{
+        backgroundImage: "url('./images/cor-bg.png')",
+        backgroundPosition: 'center',
+        backgroundSize: 'cover',
+        backgroundRepeat:'no-repeat',
+        
+    }}>
                       <img src="./images/courses-log/cor-3.png" alt="img" />
                       <p className="text-white text-xl font-bold font-['Roboto Slab'] leading-[30px]">Quran Memorization Online</p>
                       {/* button sec */}
@@ -43,7 +61,13 @@ const Courses = () => {
                   {/* second-div */}
                   <div className='flex flex-col md:flex-row justify-center items-center gap-10'>
                     {/* card-1 */}
-                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6'>
+                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6' style={{
+        backgroundImage: "url('./images/cor-bg.png')",
+        backgroundPosition: 'center',
+        backgroundSize: 'cover',
+        backgroundRepeat:'no-repeat',
+        
+    }}>
                       <img src="./images/courses-log/cor-4.png" alt="img" />
                       <p className="text-white text-xl font-bold font-['Roboto Slab'] leading-[30px]">Learn Basic Noorani Qaida Online</p>
                       {/* button sec */}
@@ -52,7 +76,13 @@ const Courses = () => {
                     </div>
                     
                     {/* card-2 */}
-                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6'>
+                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6' style={{
+        backgroundImage: "url('./images/cor-bg.png')",
+        backgroundPosition: 'center',
+        backgroundSize: 'cover',
+        backgroundRepeat:'no-repeat',
+        
+    }}>
                       <img src="./images/courses-log/cor-5.png" alt="img" />
                       <p className="text-white text-xl font-bold font-['Roboto Slab'] leading-[30px]">Learn to Recite Quran Online</p>
                       {/* button sec */}
@@ -61,7 +91,13 @@ const Courses = () => {
                     </div>
 
                     {/* card-3 */}
-                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6'>
+                    <div className='bg-[#007F5F] w-full md:w-auto flex flex-col justify-center items-center gap-4 p-4 rounded-xl pb-6' style={{
+        backgroundImage: "url('./images/cor-bg.png')",
+        backgroundPosition: 'center',
+        backgroundSize: 'cover',
+        backgroundRepeat:'no-repeat',
+        
+    }}>
                       <img src="./images/courses-log/cor-6.png" alt="img" />
                       <p className="text-white text-xl font-bold font-['Roboto Slab'] leading-[30px]">Quran Memorization Online</p>
                       {/* button sec */}

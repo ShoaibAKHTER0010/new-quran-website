@@ -17,7 +17,7 @@ const Homee = () => {
         backgroundPosition: 'center',
         backgroundSize: 'cover',
         backgroundRepeat:'no-repeat',
-        height:'100vh'
+        
     }}>
         <main className='max-w-7xl mx-auto flex flex-col justify-center items-center'>
             {/* main div */}
