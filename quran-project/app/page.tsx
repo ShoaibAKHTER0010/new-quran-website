@@ -12,6 +12,7 @@ import Steps from "@/components/steps";
 import Top from "@/components/top";
 import Trial from "@/components/trial";
 import Vital from "@/components/vital";
+import Footer from "@/components/footer";
 
 
 
@@ -32,6 +33,7 @@ export default function Home() {
   <Claim/>
   <Questions/>
   <About/>
+  <Footer/>
   
    </main>
   );
