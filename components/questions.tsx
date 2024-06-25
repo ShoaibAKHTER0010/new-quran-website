@@ -27,7 +27,7 @@ const Questions = () => {
                      </div>
 
                      {/* second-child */}
-                     <div className="bg-slate-200 px-6 flex flex-col gap-16  py-10 ">
+                     <div className="bg-slate-200 px-6 flex flex-col gap-16  py-10 flex-wrap ">
                       
                        
                         {/* question-1 */}
