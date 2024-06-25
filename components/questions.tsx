@@ -33,7 +33,7 @@ const Questions = () => {
                         {/* question-1 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-12  "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8  "
           onClick={() => toggleQuestion(1)}
         >
           Who can enroll in “Learn Quran Online” <br />
@@ -54,7 +54,7 @@ const Questions = () => {
       {/* question-2 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-12  "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8  "
           onClick={() => toggleQuestion(2)}
         >
           Is there a trial period available for these
@@ -74,7 +74,7 @@ const Questions = () => {
       {/* question-3 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-12 "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8 "
           onClick={() => toggleQuestion(3)}
         >
          Can I schedule classes according to my
@@ -94,7 +94,7 @@ const Questions = () => {
        {/* question-4 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-12 "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8 "
           onClick={() => toggleQuestion(4)}
         >
         What courses does the Pak Quran Academy
@@ -114,7 +114,7 @@ const Questions = () => {
       {/* question-5 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-12 "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8 "
           onClick={() => toggleQuestion(5)}
         >
         What is the duration of each class with the
