@@ -19,7 +19,7 @@ const Questions = () => {
             {/* main div */}
             <div className='flex gap-12 '>
                 {/* first-div */}
-                <div className='w-1/2 flex flex-col gap-12'>
+                <div className=' w-full md:w-full lg:w-1/2 flex flex-col gap-12'>
                  {/* child-1 */}
                  <div>
                     <img src="./images/msg.png" alt="logo" />
@@ -141,7 +141,7 @@ const Questions = () => {
                 </div>
 
                 {/* second-div */}
-                <div className='w-1/2'>
+                <div className='w-1/2 hidden md:hidden lg:flex '>
                  <img src="./images/Image.png" alt="img" />
                 </div>
 

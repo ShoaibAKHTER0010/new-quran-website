@@ -11,7 +11,7 @@ const About = () => {
     }}>
         <main className='mx-auto max-w-7xl'>
             {/* main-div */}
-            <div className='flex justify-center  gap-24 py-10'>
+            <div className='flex justify-center gap-10  md:gap-24 py-10 flex-col md:flex-row pl-6 md:pl-0'>
               {/* first-div */}
               <div>
                 <h2 className="text-white text-2xl font-bold font-['Roboto Slab'] leading-[40px] py-6">About</h2>
