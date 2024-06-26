@@ -69,13 +69,13 @@ programs cater to individual needs.</p>
               <h2 className="text-white text-2xl font-bold font-['Roboto Slab'] leading-[40px] py-6">Get in touch</h2>
 
               {/* para-1 */}
-              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed"><span className='inline-flex'><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] hover:rotate-45' /></span> Mobile: <span className='hover:text-emerald-400'>+923124810000</span></p>
+              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed"><span className='bolck lg:inline-flex'><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] hover:rotate-45' /></span> Mobile: <span className='hover:text-emerald-400'>+923124810000</span></p>
 
                {/* para-2 */}
-              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed"><span className='inline-flex hover:rotate-45'><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px]' /></span> Whatsapp<span className='hover:text-emerald-400'>+923124810000</span></p>
+              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed"><span className='block  lg:inline-flex '><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] hover:rotate-45' /></span> Whatsapp:<span className='hover:text-emerald-400'>+923124810000</span></p>
 
               {/* para-3 */}
-              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed hover:text-emerald-400 "><span className='inline-flex hover:rotate-45'><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] ' /></span> pakquranteaching@gmail.com</p>
+              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed hover:text-emerald-400 flex-wrap "><span className='lg:inline-flex block hover:rotate-45'><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] ' /></span> pakquranteaching@gmailp <span className='inline-flex md:block lg:inline-flex'>.com</span></p>
               </div>
                  
             </div>

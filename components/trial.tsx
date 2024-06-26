@@ -19,7 +19,7 @@ const Trial = () => {
 
                 {/* second-div */}
                 <div className='w-full md:w-[60%] text-center md:text-left'>
-                <h3 className="text-neutral-800 text-[35px] font-bold font-['Roboto Slab'] leading-[45.50px]">EXPERIENCE COMPLIMENTARY <span className="text-amber-400 ">ONLINE 
+                <h3 className="text-neutral-800 text[30px] md:text-[35px] font-bold font-['Roboto Slab']   leading-[25px] md:leading-[45.50px]">EXPERIENCE COMPLIMENTARY <span className="text-amber-400 ">ONLINE 
                 QURAN CLASSES</span> AT NO COST</h3>
 
                 {/* para-1 */}

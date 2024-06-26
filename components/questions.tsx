@@ -27,21 +27,21 @@ const Questions = () => {
                      </div>
 
                      {/* second-child */}
-                     <div className="bg-slate-200 px-6 flex flex-col gap-16  py-10 flex-wrap ">
+                     <div className="bg-slate-200 px-0 md:px-6  flex flex-col gap-16  py-10 flex-wrap overflow-hidden ">
                       
                        
                         {/* question-1 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8  "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-2 md:px-8 w-[519px] md:w-full lg:w-[519px] flex  gap-4 md:gap-16  "
           onClick={() => toggleQuestion(1)}
         >
-          Who can enroll in “Learn Quran Online” <br />
-          courses?
+          <p>Who can enroll in “to Learn Quran <br /> Online” 
+          courses?</p>
           {!openQuestion?(
-            <AiFillCaretDown className='h-7 ' />
+            <AiFillCaretDown className='h-8 ' />
           ) : (
-            <AiFillCaretUp className='h-7 ' />
+            <AiFillCaretUp className='h-8 ' />
           )
         }
         </button>
@@ -54,15 +54,15 @@ const Questions = () => {
       {/* question-2 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8  "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16  "
           onClick={() => toggleQuestion(2)}
         >
-          Is there a trial period available for these
-          online Quran classes?
+          Is there a trial period available for <br /> these 
+          Quran classes?
           {!openQuestion?(
-            <AiFillCaretDown className='w-7 h-7 ' />
+            <AiFillCaretDown className=' h-8 ' />
           ) : (
-            <AiFillCaretUp className='w-7 h-7' />
+            <AiFillCaretUp className='h-8' />
           )
         }
         </button>
@@ -74,15 +74,15 @@ const Questions = () => {
       {/* question-3 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8 "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16 "
           onClick={() => toggleQuestion(3)}
         >
-         Can I schedule classes according to my
+         Can I schedule classes according <br /> to my
          kid’s availability?
          {!openQuestion?(
-            <AiFillCaretDown className='w-7 h-7 ' />
+            <AiFillCaretDown className='h-8  ' />
           ) : (
-            <AiFillCaretUp className='w-7 h-7 ' />
+            <AiFillCaretUp className='h-8  ' />
           )
         }
         </button>
@@ -94,15 +94,15 @@ const Questions = () => {
        {/* question-4 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8 "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-4 md:gap-16 "
           onClick={() => toggleQuestion(4)}
         >
-        What courses does the Pak Quran Academy
+        What courses does the Pak Quran <br /> Academy
         offer?
         {!openQuestion?(
-            <AiFillCaretDown className='w-6 h-6 ' />
+            <AiFillCaretDown className='h-8  ' />
           ) : (
-            <AiFillCaretUp className='w-6 h-6 ' />
+            <AiFillCaretUp className='h-8 ' />
           )
         }
         </button>
@@ -114,15 +114,15 @@ const Questions = () => {
       {/* question-5 */}
       <div className="mb-4">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-8 "
+          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16 "
           onClick={() => toggleQuestion(5)}
         >
-        What is the duration of each class with the
+        What is the duration of each class <br />  with the
         Online Quran Teacher?
         {!openQuestion?(
-            <AiFillCaretDown className='w-8 h-8'/>
+            <AiFillCaretDown className='h-8 '/>
           ) : (
-            <AiFillCaretUp className='w-8 h-8' />
+            <AiFillCaretUp className='h-8 ' />
           )
         }
         </button>
@@ -141,7 +141,7 @@ const Questions = () => {
                 </div>
 
                 {/* second-div */}
-                <div className='w-1/2 hidden md:hidden lg:flex '>
+                <div className='w-1/2 hidden md:flex '>
                  <img src="./images/Image.png" alt="img" />
                 </div>
 
