@@ -13,7 +13,7 @@ const Claim = () => {
             {/* main-div */}
             <div className='py-12 pl-3 md:pl-0'>
               {/* first-div */}
-              <div className='hidden md:flex md:flex-col '>
+              <div className='flex flex-col '>
                 <h2 className="text-3xl font-bold font-['Roboto Slab'] leading-[45px] text-white "><span className="text-emerald-700 ">USD $30.00 Only/Month</span> – Affordability without Compromise</h2>
                 {/* para-1 */}
                 <p className="text-white text-base font-normal font-['Roboto Slab'] leading-relaxed py-4">We believe that access to divine knowledge should never be out of reach. That’s why we offer this exclusive learning opportunity at an <span className='text-emerald-700 font-bold '>unbelievably affordable rate</span> of USD $30.00 per month. We take pride in providing high-quality education at a price that makes it accessible to learners from all walks of life. At Pak Quran Academy, you’ll

@@ -14,7 +14,7 @@ experience. We understand the importance of accessing quality Islamic education,
 tailored to meet the needs of learners in the USA.</p>
             </div>
             {/* second-div */}
-            <div className="flex flex-col md:flex-row lg:flex-row  justify-center items-center gap-16 pt-6">
+            <div className="flex flex-col md:flex-row lg:flex-row  justify-center items-center gap-16 pt-6 px-6 md:px-0">
 
                 {/* card-one */}
                 <div className="text-center flex flex-col justify-center items-center bg-[#d7f1eb] hover:bg-[#bbe4db]  hover:shadow-xl rounded-xl py-14 px-8 w-full md:w-1/3">

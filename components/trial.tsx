@@ -13,13 +13,13 @@ const Trial = () => {
             {/* main-div  */}
             <div className='w-[100%] flex flex-col md:flex-row gap-28'>
                 {/* first div */}
-                <div className='w-full md:w-[40%] pl-16 md:pl-0'>
+                <div className='w-full md:w-[40%] pl-6  md:pl-0'>
                 <img src="./images/quran.png" alt="quran" />
                 </div>
 
                 {/* second-div */}
-                <div className='w-full md:w-[60%] text-center md:text-left'>
-                <h3 className="text-neutral-800 text[30px] md:text-[35px] font-bold font-['Roboto Slab']   leading-[25px] md:leading-[45.50px]">EXPERIENCE COMPLIMENTARY <span className="text-amber-400 ">ONLINE 
+                <div className='w-full md:w-[60%] px-6 md:px-0  '>
+                <h3 className="text-neutral-800 text[32px] md:text-[35px] font-bold font-['Roboto Slab']   leading-[35.50px] md:leading-[45.50px]">EXPERIENCE COMPLIMENTARY <span className="text-amber-400 ">ONLINE 
                 QURAN CLASSES</span> AT NO COST</h3>
 
                 {/* para-1 */}

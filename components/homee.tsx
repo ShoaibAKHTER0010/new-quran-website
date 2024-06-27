@@ -34,9 +34,9 @@ const Homee = () => {
                 <div className="flex flex-col justify-center items-center">
                    {/* first div */}
                 <div>
-                 <p className="text-center text-white text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px]">The Quran: A Journey to the Heart of Islam</p>
-                 <h2 className="text-center text-white text-[58px] font-bold font-['Roboto Slab'] leading-[87px] py-8">A Complete Online Quran Learning Experience</h2>
-                 <p className="text-center text-white text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px]">Quran Learning Online: Classes for Everyone, Anywhere</p>
+                 <p className="text-center text-white text-[20px] md:text-[25px] font-bold font-['Roboto Slab'] leading-[30.50px] md:leading-[37.50px]">The Quran: A Journey to the Heart of Islam</p>
+                 <h2 className="text-center text-white text-[40px] md:text-[58px] font-bold font-['Roboto Slab'] leading-[70px] md:leading-[87px] py-8">A Complete Online Quran Learning Experience</h2>
+                 <p className="text-center text-white text-[20px] md:text-[25px] font-bold font-['Roboto Slab'] leading-[30.50px]leading-[37.50px]">Quran Learning Online: Classes for Everyone, Anywhere</p>
                 </div>
                  {/* second div */}
                  <div className='flex gap-6 py-14'>
@@ -56,9 +56,9 @@ const Homee = () => {
     <div className="flex flex-col justify-center items-center">
                    {/* first div */}
                 <div>
-                 <p className="text-center text-white text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px]">Learn the Quran, your way</p>
-                 <h2 className="text-center text-white text-[58px] font-bold font-['Roboto Slab'] leading-[87px] py-8">Discover your Own Path to Peace & Knowledge</h2>
-                 <p className="text-center text-white text-[25px] font-bold font-['Roboto Slab'] leading-[37.50px]">Quran Learning Classes: We’re the World’s Best!</p>
+                 <p className="text-center text-white text-[20px] md:text-[25px] font-bold font-['Roboto Slab'] leading-[30.50px] md:leading-[37.50px]">Learn the Quran, your way</p>
+                 <h2 className="text-center text-white text-[40px] md:text-[58px] font-bold font-['Roboto Slab'] leading-[70px] md:leading-[87px] py-8">Discover your Own Path to Peace & Knowledge</h2>
+                 <p className="text-center text-white text-[20px] md:text-[25px] font-bold font-['Roboto Slab'] leading-[30.50px] md:leading-[37.50px]">Quran Learning Classes: We’re the World’s Best!</p>
                 </div>
                  {/* second div */}
                  <div className='flex gap-6 py-14'>

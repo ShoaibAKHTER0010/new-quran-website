@@ -16,7 +16,7 @@ const Vital = () => {
   }}>
                {/* content-div */}
                <div className='py-16 px-6'>
-               <h2 className="  text-white text-[35px] font-bold font-['Roboto Slab'] leading-[45.50px]">The Vital Importance of Online <span className='text-amber-400'>Quran Learning</span> in
+               <h2 className="  text-white text-[32px] md:text-[35px] font-bold font-['Roboto Slab'] leading-[40.50px] md:leading-[45.50px]">The Vital Importance of Online <span className='text-amber-400'>Quran Learning</span> in
                 Modern Life!</h2>
                 <p className=" text-white text-base font-normal font-['Roboto Slab'] leading-relaxed py-10">Learning the Quran Online: An Essential Necessity in Modern Life.</p>
                </div>
