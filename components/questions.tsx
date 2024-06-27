@@ -31,7 +31,7 @@ const Questions = () => {
                       
                        
                         {/* question-1 */}
-      <div className="mb-4  w-full flex justify-center">
+      <div className="mb-4  w-full flex flex-col justify-center">
         <button
           className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-2 md:px-8 w-[519px] md:w-full lg:w-[519px] flex  gap-4 md:gap-16  "
           onClick={() => toggleQuestion(1)}
@@ -52,7 +52,7 @@ const Questions = () => {
       </div>
 
       {/* question-2 */}
-      <div className="mb-4 w-full flex justify-center">
+      <div className="mb-4 w-full flex flex-col justify-center">
         <button
           className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16  "
           onClick={() => toggleQuestion(2)}
@@ -72,7 +72,7 @@ const Questions = () => {
       </div>
 
       {/* question-3 */}
-      <div className="mb-4 w-full flex justify-center">
+      <div className="mb-4 w-full flex flex-col justify-center">
         <button
           className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16 "
           onClick={() => toggleQuestion(3)}
@@ -92,7 +92,7 @@ const Questions = () => {
       </div>
 
        {/* question-4 */}
-      <div className="mb-4 w-full flex justify-center">
+      <div className="mb-4 w-full flex flex-col justify-center">
         <button
           className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-4 md:gap-16 "
           onClick={() => toggleQuestion(4)}
@@ -112,7 +112,7 @@ const Questions = () => {
       </div>
 
       {/* question-5 */}
-      <div className="mb-4 w-full flex justify-center">
+      <div className="mb-4 w-full flex flex-col justify-center">
         <button
           className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16 "
           onClick={() => toggleQuestion(5)}
