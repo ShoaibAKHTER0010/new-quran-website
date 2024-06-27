@@ -19,11 +19,11 @@ const Questions = () => {
             {/* main div */}
             <div className='flex gap-12 '>
                 {/* first-div */}
-                <div className=' w-full md:w-full lg:w-1/2 flex flex-col gap-12'>
+                <div className=' w-full md:w-full lg:w-1/2 flex flex-col gap-12 px-6'>
                  {/* child-1 */}
                  <div>
                     <img src="./images/msg.png" alt="logo" />
-                    <h2 className="text-neutral-800 text-[35px] font-bold font-['Roboto Slab'] leading-[45.50px] py-4">Frequently Asked Questions</h2>
+                    <h2 className="text-neutral-800 text-[32px] md:text-[35px] font-bold font-['Roboto Slab'] leading-[40px] md:leading-[45.50px] py-4">Frequently Asked Questions</h2>
                      </div>
 
                      {/* second-child */}
