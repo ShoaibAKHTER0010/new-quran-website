@@ -31,7 +31,7 @@ const Questions = () => {
                       
                        
                         {/* question-1 */}
-      <div className="mb-4  w-full flex flex-col justify-center">
+      <div className="mb-4  w-[100vw] flex flex-col justify-center">
         <button
           className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-2 md:px-8 w-[519px] md:w-full lg:w-[519px] flex  gap-4 md:gap-16  "
           onClick={() => toggleQuestion(1)}
