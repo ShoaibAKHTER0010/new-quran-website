@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <section className='w-full' style={{
+    <section id='contact' className= 'w-full' style={{
         backgroundImage: "url('./images/cor-bg.png')",
         backgroundPosition: 'center',
         backgroundSize: 'cover',
@@ -72,10 +72,10 @@ programs cater to individual needs.</p>
               <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed"><span className='bolck lg:inline-flex'><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] hover:rotate-45' /></span> Mobile: <span className='hover:text-emerald-400'>+923124810000</span></p>
 
                {/* para-2 */}
-              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed"><span className='block  lg:inline-flex '><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] hover:rotate-45' /></span> Whatsapp:<span className='hover:text-emerald-400'>+923124810000</span></p>
+              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed"><span className='block  lg:inline-flex '><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] hover:rotate-45' /></span> Whatsapp:<span className='hover:text-emerald-400'>92312481000</span></p>
 
               {/* para-3 */}
-              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed hover:text-emerald-400 flex-wrap "><span className='lg:inline-flex block hover:rotate-45'><img src="./images/arrow.png" alt="arrow" className='w-[30px] h-[30px] ' /></span> pakquranteaching@gmailp <span className='inline-flex md:block lg:inline-flex'>.com</span></p>
+              <p className="text-slate-200 text-base font-bold font-['Roboto Slab'] leading-relaxed hover:text-emerald-400 flex-wrap "><span className='lg:inline-flex block hover:rotate-45'><img src="./images/arrow.png" alt="arrow" className='w-[28px] h-[30px] ' /></span> pakquranteaching <span className='inline-flex md:block lg:inline-flex text-amber-400'>@gmail.com</span></p>
               </div>
                  
             </div>

@@ -9,7 +9,7 @@ const Claim = () => {
       backgroundRepeat:'no-repeat',
     
   }}>
-        <main className='mx-auto max-w-7xl'>
+        <main id='fee-Structure' className='mx-auto max-w-7xl'>
             {/* main-div */}
             <div className='py-12 pl-3 md:pl-0'>
               {/* first-div */}

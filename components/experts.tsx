@@ -2,7 +2,7 @@ import React from 'react'
 
 const Experts = () => {
   return (
-    <section className='w-full'
+    <section id='teachers' className='w-full'
     style={{
         backgroundImage: "url('./images/bg-main-2.png')",
         backgroundPosition: 'center',

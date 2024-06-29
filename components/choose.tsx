@@ -3,7 +3,7 @@ import React from 'react'
 
 const Choose = () => {
   return (
-    <section className='w-full py-24'>
+    <section id='about' className='w-full py-24'>
         <main className='mx-auto max-w-7xl'>
             {/* main div */}
             <div className=''>

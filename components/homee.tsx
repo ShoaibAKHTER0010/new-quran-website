@@ -12,7 +12,7 @@ import React from 'react'
 
 const Homee = () => {
   return (
-    <section className='w-full overflow-hidden' style={{
+    <section id="home" className='w-full overflow-hidden' style={{
         backgroundImage: "url('./images/bg-main.png')",
         backgroundPosition: 'center',
         backgroundSize: 'cover',
