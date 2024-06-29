@@ -31,9 +31,9 @@ const Questions = () => {
                       
                        
                         {/* question-1 */}
-      <div className="mb-4  flex flex-col justify-center">
+      <div className="  flex flex-col justify-center">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-2 md:px-8 w-[519px] md:w-full lg:w-[519px] flex  gap-4 md:gap-16  "
+          className=" text-neutral-800 text-md md:text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-2 md:px-8 w-full lg:w-[519px] flex  gap-4 md:gap-16  "
           onClick={() => toggleQuestion(1)}
         >
           <p className='flex-wrap'>Who can enroll in “Learn Quran <br /> Online” 
@@ -52,9 +52,9 @@ const Questions = () => {
       </div>
 
       {/* question-2 */}
-      <div className="mb-4 w-full flex flex-col justify-center">
+      <div className=" w-full flex flex-col justify-center">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16  "
+          className=" text-neutral-800 text-md md:text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-full lg:w-[519px] flex  gap-4 md:gap-16  "
           onClick={() => toggleQuestion(2)}
         >
           Is there a trial period available for <br /> these 
@@ -72,9 +72,9 @@ const Questions = () => {
       </div>
 
       {/* question-3 */}
-      <div className="mb-4 w-full flex flex-col justify-center">
+      <div className=" w-full flex flex-col justify-center">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16 "
+          className=" text-neutral-800 text-md md:text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-full lg:w-[519px] flex  gap-4 md:gap-16 "
           onClick={() => toggleQuestion(3)}
         >
          Can I schedule classes according <br /> to my
@@ -92,9 +92,9 @@ const Questions = () => {
       </div>
 
        {/* question-4 */}
-      <div className="mb-4 w-full flex flex-col justify-center">
+      <div className=" w-full flex flex-col justify-center">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex gap-4 md:gap-16 "
+          className=" text-neutral-800 text-md md:text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-full lg:w-[519px] flex gap-4 md:gap-16 "
           onClick={() => toggleQuestion(4)}
         >
         What courses does the Pak Quran <br /> Academy
@@ -112,9 +112,9 @@ const Questions = () => {
       </div>
 
       {/* question-5 */}
-      <div className="mb-4 w-full flex flex-col justify-center">
+      <div className=" w-full flex flex-col justify-center">
         <button
-          className=" text-neutral-800 text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-[519px] flex  gap-4 md:gap-16 "
+          className=" text-neutral-800 text-md md:text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-8 w-full lg:w-[519px] flex  gap-4 md:gap-16 "
           onClick={() => toggleQuestion(5)}
         >
         What is the duration of each class <br />  with the
