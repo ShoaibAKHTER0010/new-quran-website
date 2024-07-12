@@ -26,13 +26,13 @@ the students. Whether you’re a working professional, a student, or a busy
 parent, you can choose the time that suits you best. Our online Quran classes
 are available seven days a week, allowing you to learn at your convenience.</p>
 
-                <p className=" text-gray-700 text-base font-normal font-['Roboto Slab'] leading-relaxed">At Pak Quran Academy, we take pride in our team of highly qualified and
+                <p className=" text-gray-700 text-base font-normal font-['Roboto Slab'] leading-relaxed">At Pak Quran Academy, we take pride with our team of highly qualified and
 experienced teachers. They are dedicated to providing you with personalized
 guidance and support on your Quranic journey. We understand that everyone
 has different commitments. That’s why we offer flexible learning options for
 the students. Whether you’re a working professional, a student, or a busy
 parent, you can choose the time that suits you best. Our online Quran classes
-are available seven days a week, allowing you to learn at your convenience.</p>
+are available seven days in a week, allowing you to learn at your convenience.</p>
 
                 </div>
 
