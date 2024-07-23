@@ -5,7 +5,7 @@ const Offer = () => {
     <section className='w-full py-16'>
       <main className='mx-auto max-w-7xl'>
         {/* main-div */}
-        <div className='w-full'> 
+        <div className='w-full px-4'> 
             {/* heading section */}
             <h2 className="text-center text-neutral-800 text-3xl font-bold font-['Roboto Slab'] leading-[45px]">We Offer Various Courses to Learn Quran Online</h2>
             <p className="text-gray-700 text-base font-normal font-['Roboto Slab'] leading-relaxed py-5">Our mission is to provide convenient Quranic education to individuals from all walks of life. Whether you are a beginner or someone looking to enhance your existing

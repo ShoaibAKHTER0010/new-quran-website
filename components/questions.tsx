@@ -17,23 +17,23 @@ const Questions = () => {
     <section className='w-full py-16'>
         <main className='mx-auto max-w-7xl'>
             {/* main div */}
-            <div className='flex gap-12 '>
+            <div className='flex gap-4 '>
                 {/* first-div */}
-                <div className=' w-full md:w-full lg:w-1/2 flex flex-col gap-12 px-6'>
+                <div className=' w-full md:w-full xl:w-1/2  flex flex-col gap-12 px-6'>
                  {/* child-1 */}
                  <div>
                     <img src="./images/msg.png" alt="logo" />
-                    <h2 className="text-neutral-800 text-[32px] md:text-[35px] font-bold font-['Roboto Slab'] leading-[40px] md:leading-[45.50px] py-4">Frequently Asked Questions</h2>
+                    <h2 className="text-neutral-800 text-[32px] md:text-[35px] font-bold font-['Roboto Slab'] leading-[40px] md:leading-[45.50px] py-8">Frequently Asked Questions</h2>
                      </div>
 
                      {/* second-child */}
-                     <div className="bg-slate-200 px-6  flex flex-col gap-8  py-10 flex-wrap  ">
+                     <div className="bg-slate-200 px-6  flex flex-col gap-8  py-10 flex-wrap   ">
                       
                        
                         {/* question-1 */}
       <div className="  flex flex-col justify-center">
         <button
-          className=" text-neutral-800 text-md md:text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-2 md:px-8 w-full lg:w-[519px] flex  gap-4 md:gap-16  "
+          className=" text-neutral-800 text-md md:text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-2 md:px-8 w-full lg:w-[519px] flex  gap-8 md:gap-16  "
           onClick={() => toggleQuestion(1)}
         >
           <p className='flex-wrap'>Who can be enroll in “Learn Quran <br /> Online” 
@@ -142,7 +142,7 @@ const Questions = () => {
 
                 {/* second-div */}
                 <div className='w-1/2 hidden md:flex '>
-                 <img src="./images/Image.png" alt="img" />
+                 <img src="./images/Image.jpg" alt="img" />
                 </div>
 
             </div>
