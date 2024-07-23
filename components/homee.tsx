@@ -19,7 +19,7 @@ const Homee = () => {
         backgroundRepeat:'no-repeat',
         
     }}>
-        <main className='max-w-7xl mx-auto flex flex-col justify-center items-center'>
+        <main className='max-w-7xl mx-auto flex flex-col justify-center items-center carousel'>
             {/* main div */}
             <div className='w-full py-32  max-w-6xl'>
               {/* my caruosel */}

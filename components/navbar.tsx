@@ -16,7 +16,7 @@ const Navbar = () => {
     const [open, setOpen] = useState(false);
 
     return (
-        <main className='w-full px-8'>
+        <main className='w-full px-8 '>
             <div className='w-full top-0 left-0 flex '>
                 <div className='flex justify-between  py-4  md:max-w-7xl w-full mx-auto '>
                     
@@ -27,7 +27,7 @@ const Navbar = () => {
                     {open ? <IoMdClose size={24} /> : <IoMdMenu size={24} />}
                     </div>
 
-                    <ul className={`md:flex bg-emerald-950 md:bg-transparent lg:bg-transparent px-10 md:px-0   absolute md:static text-white md:text-gray-700 md:z-auto left-0 w-full md:w-auto transition-all duration-500 ease-in  gap-6 py-6 md:py-0 ${open ? 'top-20' : '-top-full md:top-0'}`}>
+                    <ul className={`md:flex bg-emerald-950 md:bg-transparent lg:bg-transparent px-10 md:px-0   absolute md:static text-white md:text-gray-700 md:z-auto left-0 w-full md:w-auto transition-all duration-500 ease-in  gap-6 py-6 md:py-0 ${open ? 'top-20' : '-top-full md:top-0'} toggle-section`}>
                         <div className='flex md:hidden'>  <img src="./images/fav.png" alt="img" />
                         <p>PAK QURAN</p>
                         <p></p></div>

@@ -74,3 +74,15 @@
       @apply bg-background text-foreground;
     }
   }
+
+  .carousel {
+    position: relative;
+    z-index: 1; /* Lower z-index for carousel */
+  }
+
+  .toggle-section {
+    position: absolute;
+    top: 20;
+    right: 0;
+    z-index:5; /* Higher z-index for toggle section */
+  }
