@@ -36,8 +36,8 @@ const Questions = () => {
           className=" text-neutral-800 text-md md:text-xl font-bold font-['Roboto Slab'] leading-[30px] bg-white py-6 px-2 md:px-8 w-full lg:w-[519px] flex  gap-4 md:gap-16  "
           onClick={() => toggleQuestion(1)}
         >
-          <p className='flex-wrap'>Who can enroll in “Learn Quran <br /> Online” 
-          courses?</p>
+          <p className='flex-wrap'>Who can be enroll in “Learn Quran <br /> Online” 
+        courses?</p>
           {!openQuestion?(
             <AiFillCaretDown className='h-8 ' />
           ) : (
